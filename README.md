@@ -1,0 +1,2 @@
+# rust
+proyecto en rust
